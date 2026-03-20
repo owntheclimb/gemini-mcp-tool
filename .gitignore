@@ -24,3 +24,4 @@ metrics-data/
 # VitePress
 docs/.vitepress/cache/
 docs/.vitepress/dist/
+.semgrep/
